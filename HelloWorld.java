@@ -5,9 +5,9 @@ public class HelloWorld {
 rubbish
     public static void main(String[]args){
 
-        System.out.println("å¤§å®¶å¥½ï¼Œæˆ‘å¥½é¤“");
-		System.out.println("å¤§å®¶å¥½ï¼Œæˆ‘å¥½é¤“");
-			System.out.println("å¤§å®¶å¥½ï¼Œæˆ‘çœŸçš„å¥½é¤“");
+        System.out.println("¤j®a¦n¡A§Ú¦n¾j³á");
+		System.out.println("¤j®a¦n¡A§Ú¦n¾j");
+			System.out.println("¤j®a¦n¡A§Ú¯uªº¦n¾j");
 
 
     }
