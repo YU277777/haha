@@ -7,9 +7,9 @@ rubbish
 
 <<<<<<< HEAD
 
-        System.out.println("¤j®a¦n¡A§Ú¦n¾j³á");
-		System.out.println("¤j®a¦n¡A§Ú¦n¾j");
-			System.out.println("¤j®a¦n¡A§Ú¯uªº¦n¾jªü");
+        System.out.println("å¤§å®¶å¥½ï¼Œæˆ‘å¥½é¤“å–”");
+		System.out.println("å¤§å®¶å¥½ï¼Œæˆ‘å¥½é¤“");
+			System.out.println("å¤§å®¶å¥½ï¼Œæˆ‘çœŸçš„å¥½é¤“é˜¿8 8 8 ");
 
 
 
